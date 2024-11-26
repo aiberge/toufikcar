@@ -9,7 +9,7 @@ export default function Home() {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-4xl font-bold text-center mb-16">
-            Pourquoi choisir <span className="text-yellow-500">Toufik car</span> ?
+            Pourquoi choisir <span className="text-yellow-500">BENDRIOUCH CAR</span> ?
           </h2>
           
           <div className="grid md:grid-cols-3 gap-12">
@@ -50,7 +50,7 @@ export default function Home() {
                 Notre engagement qualité
               </h2>
               <p className="text-lg mb-8">
-                Chez Draft, nous nous engageons à vous offrir une expérience de location
+                Chez BENDRIOUCH CAR, nous nous engageons à vous offrir une expérience de location
                 exceptionnelle. Nos véhicules sont minutieusement entretenus et
                 préparés pour garantir votre confort et votre sécurité.
               </p>
@@ -62,7 +62,7 @@ export default function Home() {
             <div className="relative h-96">
               <img
                 src="https://images.unsplash.com/photo-1560179707-f14e90ef3623?auto=format&fit=crop&q=80"
-                alt="Showroom Draft"
+                alt="Showroom BENDRIOUCH CAR"
                 className="w-full h-full object-cover rounded-lg"
               />
             </div>

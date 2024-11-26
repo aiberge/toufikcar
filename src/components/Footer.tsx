@@ -9,8 +9,8 @@ export default function Footer() {
           <div className="space-y-4">
             <Link to="/" className="flex items-center">
               <img 
-                src="/Toulogo.png" 
-                alt="Toufik car" 
+                src="/bendrologo.png" 
+                alt="BENDRIOUCH CAR" 
                 className="h-[190px] w-[190px]"
               />
             </Link>
@@ -49,7 +49,7 @@ export default function Footer() {
             <h3 className="font-semibold text-lg mb-4">Contact</h3>
             <ul className="space-y-2 text-gray-400">
               <li>+212 661-140298</li>
-              <li>contact@toufikcar.ma</li>
+              <li>contact@bendriouchcar.ma</li>
               <li>123 Avenue Mohammed V,</li>
               <li>Casablanca, Maroc</li>
             </ul>
@@ -67,7 +67,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} Toufik car. Tous droits réservés.
+            © {new Date().getFullYear()} BENDRIOUCH CAR. Tous droits réservés.
           </p>
           <div className="flex items-center text-gray-400 text-sm">
             <span>Fait avec</span>

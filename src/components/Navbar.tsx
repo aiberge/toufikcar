@@ -11,8 +11,8 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           <Link to="/" className="flex items-center">
             <img 
-              src="/Toulogo.png" 
-              alt="Toufik car" 
+              src="/bendrologo.png" 
+              alt="BENDRIOUCH CAR" 
               className="h-[190px] w-[190px]"
             />
           </Link>

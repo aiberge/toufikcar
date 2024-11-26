@@ -19,7 +19,7 @@ export default function ReservationModal({ car, onClose }: ReservationModalProps
     const formattedStartDate = startDate ? format(new Date(startDate), 'dd MMMM yyyy', { locale: fr }) : '';
     const formattedEndDate = endDate ? format(new Date(endDate), 'dd MMMM yyyy', { locale: fr }) : '';
     
-    const message = encodeURIComponent(`Bonjour, je souhaite louer une voiture via votre site Toufik car.
+    const message = encodeURIComponent(`Bonjour, je souhaite louer une voiture via votre site BENDRIOUCH CAR.
 
 Véhicule : ${car.name}
 Dates de location :

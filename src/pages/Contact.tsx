@@ -32,8 +32,8 @@ export default function Contact() {
                   <Mail className="h-6 w-6 text-yellow-500 mr-4" />
                   <div>
                     <div className="font-semibold">Email</div>
-                    <a href="mailto:contact@toufikcar.ma" className="hover:text-yellow-500">
-                      contact@toufikcar.ma
+                    <a href="mailto:contact@bendriouchcar.ma" className="hover:text-yellow-500">
+                      contact@bendriouchcar.ma
                     </a>
                   </div>
                 </div>

@@ -16,10 +16,10 @@ export default function Hero() {
       <div className="relative h-full flex items-center justify-center">
         <div className="text-center text-white px-4">
           <h1 className="text-5xl md:text-6xl font-bold mb-6">
-            Roulez avec <span className="text-yellow-500">Toufik car</span>
+            Roulez avec <span className="text-yellow-500">BENDRIOUCH CAR</span>
           </h1>
           <p className="text-xl md:text-2xl mb-8">
-            Découvrez votre voiture idéale avec Toufik car
+            Découvrez votre voiture idéale avec BENDRIOUCH CAR
           </p>
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Link

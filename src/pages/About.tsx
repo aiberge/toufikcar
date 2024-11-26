@@ -12,7 +12,7 @@ export default function About() {
           }}
         />
         <div className="relative h-full flex items-center justify-center text-white">
-          <h1 className="text-5xl font-bold">À propos de Toufik car</h1>
+          <h1 className="text-5xl font-bold">À propos de BENDRIOUCH CAR</h1>
         </div>
       </div>
 
@@ -24,7 +24,7 @@ export default function About() {
                 Notre <span className="text-yellow-500">histoire</span>
               </h2>
               <p className="text-gray-600 mb-6">
-                Depuis notre création, Toufik car s'est engagé à redéfinir l'expérience
+                Depuis notre création, BENDRIOUCH CAR s'est engagé à redéfinir l'expérience
                 de location de voitures au Maroc. Notre mission est simple : offrir
                 un service premium accessible à tous, combinant qualité des véhicules
                 et excellence du service client.
@@ -69,12 +69,12 @@ export default function About() {
               {
                 name: 'Mohammed R.',
                 role: 'Client business',
-                content: 'Toufik car est mon partenaire de confiance pour tous mes déplacements professionnels. Qualité et fiabilité garanties.'
+                content: 'BENDRIOUCH CAR est mon partenaire de confiance pour tous mes déplacements professionnels. Qualité et fiabilité garanties.'
               },
               {
                 name: 'Julie M.',
                 role: 'Touriste',
-                content: 'Une expérience parfaite du début à la fin. Je recommande vivement Toufik car pour découvrir le Maroc.'
+                content: 'Une expérience parfaite du début à la fin. Je recommande vivement BENDRIOUCH CAR pour découvrir le Maroc.'
               }
             ].map((testimonial, index) => (
               <div key={index} className="bg-gray-900 p-6 rounded-lg">

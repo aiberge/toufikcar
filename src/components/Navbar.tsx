@@ -23,6 +23,7 @@ export default function Navbar() {
             <Link to="/catalogue" className="hover:text-yellow-500 transition-colors">Catalogue</Link>
             <Link to="/about" className="hover:text-yellow-500 transition-colors">À propos</Link>
             <Link to="/contact" className="hover:text-yellow-500 transition-colors">Contact</Link>
+            <Link to="/reservation" className="hover:text-yellow-500 transition-colors">Réservation</Link>
           </div>
 
           {/* Mobile menu button */}
@@ -68,6 +69,13 @@ export default function Navbar() {
               onClick={() => setIsOpen(false)}
             >
               Contact
+            </Link>
+            <Link
+              to="/reservation"
+              className="block px-3 py-2 hover:bg-yellow-500 hover:text-black rounded-md"
+              onClick={() => setIsOpen(false)}
+            >
+              Réservation
             </Link>
           </div>
         </div>

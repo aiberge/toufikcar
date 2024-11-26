@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Catalogue from './pages/Catalogue';
 import About from './pages/About';
 import Contact from './pages/Contact';
+import ReservationForm from './components/ReservationForm';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
             <Route path="/catalogue" element={<Catalogue />} />
             <Route path="/about" element={<About />} />
             <Route path="/contact" element={<Contact />} />
+            <Route path="/reservation" element={<ReservationForm />} />
           </Routes>
         </main>
         <Footer />

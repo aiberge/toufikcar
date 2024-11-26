@@ -64,11 +64,13 @@ export default function Contact() {
 
             <div className="h-64 bg-gray-200 rounded-lg overflow-hidden">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3323.846447471328!2d-7.632492684797446!3d33.592882880730445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzPCsDM1JzM0LjQiTiA3wrAzNyc1Ny4wIlc!5e0!3m2!1sfr!2sma!4v1645567890123!5m2!1sfr!2sma"
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3440.3433366958457!2d-9.58835768817446!3d30.42636757462817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xdb3b775ff5646df%3A0xdb0738e91db291a5!2sBENDRIOUCH%20CAR%20location%20voiture%20agadir%3Bcheap%20car%20rental%20Agadir%20airport%20without%20deposit%20-%20Louer%20Votre%20Voiture%20%C3%80%20Bas%20Prix!5e0!3m2!1sfr!2sma!4v1732641089790!5m2!1sfr!2sma"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
+                allowFullScreen={true}
                 loading="lazy"
+                referrerPolicy="no-referrer-when-downgrade"
               ></iframe>
             </div>
           </div>

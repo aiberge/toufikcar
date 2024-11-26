@@ -1,0 +1,15 @@
+export const cars = [
+  { id: 1, name: 'Dacia Logan', image: '/logan.webp', price: '349 DH/jour', features: ['Boîte manuelle', 'Diesel', '5 places confortables', 'Coffre 310L'] },
+  { id: 2, name: 'Dacia Stepway', image: '/stepway.webp', price: '349 DH/jour', features: ['Boîte manuelle', 'Essence', '5 places confortables', 'Coffre 320L'] },
+  { id: 3, name: 'Clio 5', image: '/clio24.jpg', price: '399 DH/jour', features: ['Boîte automatique', 'Essence', '5 places confortables', 'Coffre 391L'] },
+  { id: 4, name: 'Peugeot 208', image: '/208.jpeg', price: '349 DH/jour', features: ['Boîte automatique', 'Essence', '5 places confortables', 'Coffre 311L'] },
+  { id: 5, name: 'Dacia Duster', image: '/duster.jpg', price: '349 DH/jour', features: ['Boîte manuelle', 'Diesel', '5 places confortables', 'Coffre 478L'] },
+  { id: 6, name: 'Peugeot C-Elysée', image: '/Clise.jpg', price: '399 DH/jour', features: ['Boîte manuelle', 'Essence', '5 places confortables', 'Coffre 506L'] },
+  { id: 7, name: 'T-Roc', image: '/te.jpg', price: '799 DH/jour', features: ['Boîte automatique', 'Essence', '5 places confortables', 'Coffre 445L'] },
+  { id: 8, name: 'Range Rover Velar', image: '/range.jpg', price: '999 DH/jour', features: ['Boîte automatique', 'Diesel', '5 places confortables', 'Coffre 632L'] },
+  { id: 9, name: 'Golf 8', image: '/8.jpg', price: '799 DH/jour', features: ['Boîte automatique', 'Essence', '5 places confortables', 'Coffre 380L'] },
+  { id: 10, name: 'Hyundai Accent', image: '/accent.png', price: '449 DH/jour', features: ['Boîte manuelle', 'Essence', '5 places confortables', 'Coffre 387L'] },
+  { id: 11, name: 'Opel Corsa', image: '/corsa.webp', price: '349 DH/jour', features: ['Boîte manuelle', 'Essence', '5 places confortables', 'Coffre 309L'] },
+  { id: 12, name: 'Opel Crossland', image: '/land.jpg', price: '349 DH/jour', features: ['Boîte automatique', 'Essence', '5 places confortables', 'Coffre 410L'] },
+  { id: 13, name: 'Citroën C3', image: '/c3e.jpg', price: '349 DH/jour', features: ['Boîte manuelle', 'Essence', '5 places confortables', 'Coffre 300L'] },
+];
